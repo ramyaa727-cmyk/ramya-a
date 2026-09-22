@@ -6,3 +6,6 @@ I am currently developing my skills in Python, C, HTML, CSS, Git, GitHub, and da
 
 Projects
 This repository contains my learning projects and practical work in computer science and programming.
+
+Contact
+You can find my work and learning progress in this repository.
