@@ -9,3 +9,5 @@ This repository contains my learning projects and practical work in computer sci
 
 Contact
 You can find my work and learning progress in this repository.
+
+This section highlights the projects I have worked on while learning and developing my technical skills.
