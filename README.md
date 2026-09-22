@@ -3,3 +3,6 @@ Hello, I am Ramya A, a Computer Science Engineering student interested in softwa
 
 Skills
 I am currently developing my skills in Python, C, HTML, CSS, Git, GitHub, and data analysis.
+
+Projects
+This repository contains my learning projects and practical work in computer science and programming.
